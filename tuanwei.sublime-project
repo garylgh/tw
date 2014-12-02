@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/guohuilin/Downloads/tuanwei"
+		}
+	],
+	"settings":
+    {
+            "less2css":
+            {
+                    "autoCompile": true,
+                    "lessBaseDir": "less",
+                    "main_file": "pioneer.less",
+                    "minify": false,
+                    "showErrorWithWindow": true
+            },
+            "tab_size": 4
+    }
+}
